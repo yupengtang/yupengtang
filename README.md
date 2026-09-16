@@ -8,6 +8,4 @@ On the systems side, I build GPU-optimized inference pipelines, large-scale eval
 
 I also contribute to open-source ML infrastructure, with bug fixes, tests, and systems improvements merged upstream into PyTorch/TorchRL, Hugging Face Accelerate, and Liger-Kernel.
 
-My broader interests include foundation models, multimodal learning, ML systems, embodied AI, robotics, world models, and reinforcement learning.
-
 I grew up in China and did my undergraduate degree in Artificial Intelligence at Shandong University. Those four years gave me a strong grounding in mathematics and control theory, and more importantly, taught me how to think across disciplinary boundaries. I have carried that habit with me ever since.
